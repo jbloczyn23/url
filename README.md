@@ -1,4 +1,4 @@
-# Read Me
+# Shortened URL Service
 ## Description
 This is a service for creating shortened urls similar to bit.ly or goo.gl. The service
 returns the shortened url back to the client and then once a client requests the
